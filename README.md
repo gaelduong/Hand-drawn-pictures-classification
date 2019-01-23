@@ -1,3 +1,5 @@
+(IF THE NOTEBOOKS DON'T SHOW UP, PLEASE CLICK "RELOAD")
+
 ## Problem statement
 
 The goal is to design a machine learning algorithm that can automatically identify hand drawn images as well as reason about their appearance. The dataset we have prepared is a variant of google’s quick draw dataset. For that dataset, a popular goal has been to simply classify the given human drawn images. There are 31 classes (pencil, rabbit, rollerskates,...)
