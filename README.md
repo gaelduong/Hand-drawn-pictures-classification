@@ -6,6 +6,8 @@ The goal is to design a machine learning algorithm that can automatically identi
 
 ![title](img/intro.jpg)
 
+### Solution
+
 We divide the code into separate 4 files:
 
 PreprocessData.ipynb 
